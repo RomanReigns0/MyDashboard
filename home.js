@@ -1,1 +1,1 @@
-let text = 'Welcome to test'
+let text = 'Welcome to home'
